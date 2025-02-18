@@ -1,6 +1,6 @@
 #Expresiones básicas de matemáticas
 ##Repositorio de código fuente utilizado para crear 8 expresiones matematicas
-###Cuenta con: 
+###Cuenta con:
 -Potencias
 -División
 -Factorización

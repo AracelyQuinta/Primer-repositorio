@@ -1,22 +1,24 @@
 
-# El código que se encuentra en el archivo semana 11 arreglos se presentan estos dos programas:
+# En la códificación del archivo pycharm1 se encuentran
+#Expresiones básicas de matemáticas
 
-## Búsqueda en Arreglo Multidimensional
+### Repositorio de código fuente utilizado para crear 8 expresiones matemáticas
 
-Se crea un nuevo proyecto en PyCharm y un archivo Python para este programa.
+#### Cuenta con:
 
-Se escribe un programa que incluya una matriz bidimensional con valores numéricos.
+-Potencias
 
-Se implemento una función que realice una búsqueda en la matriz para encontrar un valor específico que definas.
+-División
 
-Muestra un mensaje que indique si el valor se encontró o no, y muestra su posición en la matriz si se encontró.
+-Factorización
 
-## Ordenación de Arreglo Multidimensional
+-Expancion de la expresion
 
-Se crea un nuevo proyecto en PyCharm y un archivo Python para este programa.
+#### Datos del Alumno:
 
-Se escribe un programa que incluya una matriz bidimensional con valores numéricos en una matriz pequeña de 3x3.
+Institución: Universidad Estatal Amazónica
 
-Se implemento una función que ordene una fila específica de la matriz en orden ascendente utilizando un algoritmo de ordenación de tu elección (por ejemplo, Bubble Sort o QuickSort).
+Carrera: Ingeniería en Tecnologías de la Información y Comunicación
 
-Muestra la matriz original y la matriz con la fila ordenada
+Nombre: Aracely Quintanilla
+

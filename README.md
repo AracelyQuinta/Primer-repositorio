@@ -19,3 +19,9 @@ Se escribe un programa que incluya una matriz bidimensional con valores numéric
 Se implemento una función que ordene una fila específica de la matriz en orden ascendente utilizando un algoritmo de ordenación de tu elección (por ejemplo, Bubble Sort o QuickSort).
 
 Muestra la matriz original y la matriz con la fila ordenada
+
+
+
+
+ #hola 
+ ##Jess

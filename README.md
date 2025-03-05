@@ -1,7 +1,7 @@
 #  Registro de Temperaturas Diarias
 
 Se desarrollo una pequeña aplicación para rastrear las temperaturas diarias en diferentes ciudades como Guayaquil, Cuenca y Loja.
-Esta aplicacion se encuentra en la carpeta de Iteracion de arreglo ...
+Esta aplicacion se encuentra en la carpeta de Iteracion de arreglos...
 
 ## Tarea: Iteración de arreglos multidimensionales con bucles anidados
 

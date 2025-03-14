@@ -2,6 +2,8 @@
 # Primera dimensión: Ciudades (3 ciudades)
 # Segunda dimensión: Días de la semana (7 días)
 # Tercera dimensión: Semanas (4 semanas)
+
+##
 temperaturas = [
     [   # Ciudad : Guayaquil
         [   # Semana 1

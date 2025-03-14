@@ -241,5 +241,5 @@ else:
                 # Preguntamos nuevamente si desea continuar buscando.
                 consultada1 = input("¿Quisiera seguir buscando? (si/no): ")
         else:
-           # Si la respuesta no es "si", finalizamos el programa con un mensaje de despedida.
+           # Si la respuesta  es no , finalizamos el programa con un mensaje de despedida.
            print("Fin de la busqueda")

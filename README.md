@@ -1,4 +1,4 @@
-# Tarea: Trabajando con Diccionarios en Python
+# Tarea semana 15: Trabajando con Diccionarios en Python
 
 Se encuentra en la carpeta diccionario dos programas en el uno se encuentra con el nombre "creacion de un diccionario.py " aplicando directamente los diccionarios mientras que en el otro programa se lo ejecuta con funciones este tiene el nombre de "diccionario con funciones.py "
 
@@ -26,3 +26,5 @@ Elimina la clave "edad" del diccionario, ya que esa información no es necesaria
 ## Imprimir el Diccionario Final:
 
 Imprime el diccionario resultante después de realizar todas las operaciones.
+
+fecha: 26/03/2025

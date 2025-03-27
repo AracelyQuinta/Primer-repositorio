@@ -1,18 +1,7 @@
-# Desarrollo de Función para Calcular Temperaturas Promedio en Python
+# Creación de  una función llamada calcular_descuento en la carpeta funciones python
 
-## Se realizo la funcion promedio del promedio de las temperaturas de las ciudades 
+Toma dos parámetros: el monto total de la compra y un valor predeterminado para el porcentaje de descuento (por ejemplo, 10% por defecto).
 
-# Se aplico en este programa lo siguiente
+# La función debe calcular el descuento aplicando el porcentaje al monto total de la compra.
 
-*Desarrollo de una función en Python que calcule la temperatura promedio de una ciudad durante un período de tiempo.
-
-*La función debe es capaz de manejar datos de temperaturas de múltiples ciudades y semanas.
-
-*Utiliza como base el ejemplo anterior en este caso el documento de codigo llamado temperaturas diarias en varias ciudades del ecuador.py, donde tenía datos de 3 ciudades durante 4 semanas.
-
-*La función recibe estos datos como parámetros y calcula la temperatura promedio de cada ciudad.
-# La actividad se encuentra en:
-
-## Tarea: Iteración de arreglos multidimensionales con bucles anidados
-
-### temperaturas diarias en varias ciudades del ecuador 1.0 .py
+La función debe devolver el monto del descuento calculado.
